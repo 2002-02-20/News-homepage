@@ -12,3 +12,4 @@ export const Article = ({img, number, title, text}) => {
     </article>
   )
 }
+
